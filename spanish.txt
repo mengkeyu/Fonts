@@ -1,0 +1,5 @@
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ÁÉÍÓÚÜÑáéíóúüñ
+0123456789
+.,;:!?-–—()[]{}'"«»¡¿/\\@&%#€$£¥
